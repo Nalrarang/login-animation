@@ -1,0 +1,15 @@
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+body, #root, .App {
+  height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background:rgb(35, 45, 65);
+    font-weight: 400;
+    font-size: 1em;
+    font-family: 'Lato', Arial, sans-serif;
+}
